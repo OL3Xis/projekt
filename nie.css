@@ -1,0 +1,167 @@
+.je {
+    display: flex;
+    width: 660px;
+    height: 125px;
+    align-items: center;
+    margin: auto;
+    background-image: url(https://motionarray.imgix.net/preview-956908-eAcQQesEau-high_0000.jpg?w=660&q=60&fit=max&auto=format);
+}
+
+.dw {
+    text-transform: capitalize;
+    text-size-adjust: 50px;
+    width: 150px;
+    color: rgb(222, 222, 222);
+}
+
+
+.tr, .cz {
+    display: flex;
+    width: 300px;
+    float: left;
+    margin-left: 5px;
+    text-align: justify;
+    align-items: flex-start;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 5px;
+    color: white;
+}
+
+.cz {
+    width: 150px;
+}
+
+.tr a {
+    text-decoration: none;
+    color: white;
+}
+
+.jed {
+    display: flex;
+    width: 100%;
+    background-color: rgb(22, 22, 222);
+    color: white;
+    border: solid 2px rgb(22, 22, 222);
+    list-style-type: none;
+    text-align: justify;
+    align-items: flex-start;
+    justify-content: space-between;
+    float: left;
+    padding: 5px;
+}
+
+.jed a {
+    list-style-type: none;
+    color: white;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.jed a:hover {
+    background-color: white;
+    color: rgb(22, 22, 222);
+}
+
+.jede {
+    margin: auto;
+    display: flex;
+    width: 1234px;
+    height: 646px;
+    background-image: url(https://wrc.net.pl/app/uploads/2020/10/jeremy-clarkson-skr%C4%99t-top-gear.png);
+    margin-top: 100px;
+    background-repeat: no-repeat;
+}
+
+.arrow {
+    height: 50px;
+    width: 50px;
+    margin-right: 617px;
+    margin-top: 10px;
+    align-items: center;
+}
+
+.arow {
+    height: 50px;
+    width: 50px;
+    margin-left: 617px;
+    margin-top: 10px;
+    align-items: center;
+}
+
+.arrow:hover {
+    border: solid black 2px;
+}
+
+.arow:hover {
+    border: solid black 2px;
+}
+
+.jeden {
+    width: 1250px;
+    height: 100%;
+    text-transform: capitalize;
+    text-decoration: underline red 2px;
+}
+
+.dwa {
+    display: inline;
+    width: 500px;
+    height: 900px;
+    text-align: center;
+    justify-content: space-evenly;
+    margin-left: 10px;
+    margin-right: 100px;
+}
+
+.dwaa {
+    display: inline-block;
+    width: 75%;
+    height: 15%;
+    text-justify: auto;
+    border: solid 5px red;
+    color: rgb(255, 255, 255);
+}
+
+.ddwa {
+    display: flex;
+    width: 100%;
+    height: 1250px;
+    text-align: center;
+    justify-content: space-evenly;
+    background-color: rgb(32, 32, 132);
+}
+
+.dwwa {
+    display: inline;
+    width: 500px;
+    height: 900px;
+    text-align: center;
+    justify-content: space-evenly;
+}
+
+.map {
+   
+    margin-top: 15px;
+    margin-left: 30%;
+    display: flex;
+}
+
+.mapa {
+    width: 100%;
+    height: 500px;
+    background-color: aqua;
+    border: solid 2px rgb(0, 0, 0);
+    display: flex;
+}
+
+.mapa > h2 {
+    color: rgb(255, 255, 255);
+    max-width: 50px;
+    margin-left: 10%;
+}
+
+
+
+
